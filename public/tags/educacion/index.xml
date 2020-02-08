@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>r | L. Paloma Rojas-Saunero</title>
-    <link>/categories/r/</link>
-      <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
-    <description>r</description>
+    <title>educación | L. Paloma Rojas-Saunero</title>
+    <link>/tags/educacion/</link>
+      <atom:link href="/tags/educacion/index.xml" rel="self" type="application/rss+xml" />
+    <description>educación</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>r</title>
-      <link>/categories/r/</link>
+      <title>educación</title>
+      <link>/tags/educacion/</link>
     </image>
     
     <item>
@@ -20,11 +20,12 @@
       <description>
 
 
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Si no educamos a las niñas de nuestro país, cómo esperamos que puedan emanciparse y defenderse de un problema sistémico como el machismo?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Mi intención es usar datos abiertos para explorar la diferencia entre mujeres y hombres respecto a los indicadores de educación.&lt;/p&gt;
-&lt;p&gt;Para realizar los gráficos que presento en el siguiente &lt;a href=&#34;https://palolili23.github.io/datos_abiertos_lp/01_R/reporte_alfabetizacion.html&#34;&gt;post&lt;/a&gt; utilicé datos que se encuentran libres y disponibles en la página &lt;a href=&#34;https://datos.gob.bo/dataset/indicadores-de-poblacion-segun-departamento-y-municipio-censo-2012/resource/102243d4-f2f4-4cdc-b26c-624eec13028b&#34;&gt;datosabiertos.bo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Para este proyecto utilicé datos que se encuentran libres y disponibles en la página &lt;a href=&#34;https://datos.gob.bo/dataset/indicadores-de-poblacion-segun-departamento-y-municipio-censo-2012/resource/102243d4-f2f4-4cdc-b26c-624eec13028b&#34;&gt;datosabiertos.bo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;El proyecto se encuentra abierto en un repositorio público de github.
 Los datos crudos se encuentran en la carpeta &lt;code&gt;00_datos_crudos&lt;/code&gt; y el código para limpiar los datos se encuentra en el archivo &lt;code&gt;01_R&lt;/code&gt;, &lt;code&gt;limpieza_datos.R&lt;/code&gt;, guardé los datos ya procesados en el archivo &lt;code&gt;02_datos_limpios&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Para los gráficos que realizo en este archivo, utilizo los datos &lt;code&gt;censo.csv&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;El código de este y otros gráficos de indicadores relacionados se encuentran descritos en el siguiente &lt;a href=&#34;https://palolili23.github.io/datos_abiertos_lp/01_R/reporte_alfabetizacion.html&#34;&gt;post&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

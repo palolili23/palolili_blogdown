@@ -46,11 +46,27 @@
   </url>
   
   <url>
+    <loc>/projects/brecha_genero/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
+    <loc>/tags/educacion/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/genero/</loc>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
   </url>
   
   <url>
@@ -59,6 +75,10 @@
   
   <url>
     <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
   </url>
   
   <url>

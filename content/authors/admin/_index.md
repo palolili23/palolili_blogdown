@@ -49,6 +49,6 @@ user_groups:
 
 I am a PhD student at the Epidemiology Department of [Erasmus MC](https://www.erasmusmc.nl/en/research/groups/causal-inference-group). My research is focused on applying causal inference methods in cohort studies, specifically to emulate target trials for long-term exposures related to dementia and to understand the role of competing events in this setting. 
 
-I enjoy teaching and working with communities. This is why I help in the organization of [R-Ladies Rotterdam](https://twitter.com/rladiesrdam), [Reprohack](https://reprohack.github.io/reprohack-hq/) and recently became  [RStudio Certified Instructor.](https://education.rstudio.com/trainers/). 
+I enjoy teaching and working with communities. This is why I help in the organization of [R-Ladies Rotterdam](https://twitter.com/rladiesrdam), [Reprohack](https://reprohack.github.io/reprohack-hq/) and recently became  an [RStudio Certified Instructor](https://education.rstudio.com/trainers/).
 
 I keep my heart close to home in La Paz, Bolivia. 

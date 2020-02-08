@@ -12,5 +12,29 @@
       <link>/tags/</link>
     </image>
     
+    <item>
+      <title>educación</title>
+      <link>/tags/educacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/educacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>género</title>
+      <link>/tags/genero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/genero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r</title>
+      <link>/tags/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

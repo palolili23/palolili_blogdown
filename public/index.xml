@@ -193,6 +193,23 @@ Three
     </item>
     
     <item>
+      <title>Brecha de género en educación</title>
+      <link>/projects/brecha_genero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/brecha_genero/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Si no educamos a las niñas de nuestro país, cómo esperamos que puedan emanciparse y defenderse de un problema sistémico como el machismo?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mi intención es usar datos abiertos para explorar la diferencia entre mujeres y hombres respecto a los indicadores de educación.&lt;/p&gt;
+&lt;p&gt;Para este proyecto utilicé datos que se encuentran libres y disponibles en la página &lt;a href=&#34;https://datos.gob.bo/dataset/indicadores-de-poblacion-segun-departamento-y-municipio-censo-2012/resource/102243d4-f2f4-4cdc-b26c-624eec13028b&#34;&gt;datosabiertos.bo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;El proyecto se encuentra abierto en un repositorio público de github.
+Los datos crudos se encuentran en la carpeta &lt;code&gt;00_datos_crudos&lt;/code&gt; y el código para limpiar los datos se encuentra en el archivo &lt;code&gt;01_R&lt;/code&gt;, &lt;code&gt;limpieza_datos.R&lt;/code&gt;, guardé los datos ya procesados en el archivo &lt;code&gt;02_datos_limpios&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;El código de este y otros gráficos de indicadores relacionados se encuentran descritos en el siguiente &lt;a href=&#34;https://palolili23.github.io/datos_abiertos_lp/01_R/reporte_alfabetizacion.html&#34;&gt;post&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reproducibility Hackathon Netherlands – the aftermath</title>
       <link>/post/2020_02_08_reprohack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
