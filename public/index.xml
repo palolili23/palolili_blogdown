@@ -192,5 +192,32 @@ Three
 </description>
     </item>
     
+    <item>
+      <title>Reproducibility Hackathon Netherlands – the aftermath</title>
+      <link>/post/2020_02_08_reprohack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2020_02_08_reprohack/</guid>
+      <description>
+
+
+&lt;p&gt;On Saturday 30 November, 44 excited researchers gathered at the Leiden University Library to join the very first ReproHack – short for Reproducibility Hackathon – in the Netherlands. In a nutshell, a ReproHack is aimed at assessing the reproducibility of scientific research that publicly shared code and data. During a ReproHack, participants get to work with other people’s material in a low pressure environment and record their experiences on a number of key aspects, including reproducibility, transparency and reusability of materials.&lt;/p&gt;
+&lt;p&gt;We share our experience of organizing this event in the &lt;a href=&#34;https://software.ac.uk/blog/2020-01-15-reproducibility-hackathon-netherlands-aftermath&#34;&gt;post&lt;/a&gt; we wrote for the Software Sustainability Institute.&lt;/p&gt;
+&lt;p&gt;If you are excited to become part of the ReproHack community check our &lt;a href=&#34;https://reprohack.github.io/reprohack-hq/&#34;&gt;website&lt;/a&gt; (under construction!) to see if there is an event nearby or to share a paper for a future ReproHack. You can also &lt;a href=&#34;https://twitter.com/ReproHack&#34;&gt;follow us&lt;/a&gt; on Twitter!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vacation &lt;- grow(RLadiesNetwork)</title>
+      <link>/post/2020_02_08_rladies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2020_02_08_rladies/</guid>
+      <description>
+
+
+&lt;p&gt;While I was living in Buenos Aires, Argentina I had the opportunity to meet two kind, strong and super smart women: &lt;a href=&#34;https://www.minedogucu.com/&#34;&gt;Mine Dogucu&lt;/a&gt; and &lt;a href=&#34;https://lacion.rbind.io/&#34;&gt;Laura Ación&lt;/a&gt;. They did not only encouraged me to pursuit a PhD, but it is thanks to them that &lt;a href=&#34;https://twitter.com/rladiesba&#34;&gt;Rladies Buenos Aires&lt;/a&gt; was born.&lt;/p&gt;
+&lt;p&gt;In the &lt;a href=&#34;http://blog.rladies.org/post/vacation_grow_rladiesnetwork/&#34;&gt;post&lt;/a&gt; we wrote together for the R-Ladies Global blog we tell you all the details about how couch surfing led to the expansion of the R-Ladies Network in Latin America.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

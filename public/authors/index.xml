@@ -17,7 +17,16 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD student at the Epidemiology Department of Erasmus MC, and I am a part of the Causal Inference Group and the Neuro-Epidemiology Group. My research is focused on applying causal inference methods in cohort studies, specifically to emulate target trials for long-term exposures related to dementia and to understand the role of competing events in this setting. I am also an R enthusiast and advocate of open science.&lt;/p&gt;
+      <description>&lt;p&gt;I am a PhD student at the Epidemiology Department of 
+&lt;a href=&#34;https://www.erasmusmc.nl/en/research/groups/causal-inference-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Erasmus MC&lt;/a&gt;
+. My research is focused on applying causal inference methods in cohort studies, specifically to emulate target trials for long-term exposures related to dementia and to understand the role of competing events in this setting.&lt;/p&gt;
+&lt;p&gt;I enjoy teaching and working with communities. This is why I help in the organization of 
+&lt;a href=&#34;https://twitter.com/rladiesrdam&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;R-Ladies Rotterdam&lt;/a&gt;
+, 
+&lt;a href=&#34;https://reprohack.github.io/reprohack-hq/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reprohack&lt;/a&gt;
+ and recently became  
+&lt;a href=&#34;https://education.rstudio.com/trainers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RStudio Certified Instructor.&lt;/a&gt;
+.&lt;/p&gt;
 &lt;p&gt;I keep my heart close to home in La Paz, Bolivia.&lt;/p&gt;
 </description>
     </item>
