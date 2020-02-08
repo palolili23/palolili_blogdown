@@ -21,6 +21,8 @@ interests:
 - Epidemiology
 - Causal inference
 - Rstats
+- Reproducibility and Open science
+
 name: L. Paloma Rojas-Saunero
 organizations:
 - name: Erasmus MC
@@ -45,6 +47,6 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the Epidemiology Department of Erasmus MC, and I am a part of the Causal Inference Group and the Neuro-Epidemiology Group. My research is focused on applying causal inference methods in cohort studies, specifically to emulate target trials for long-term exposures related to dementia and to understand the role of competing events in this setting. I am also an R enthusiast (R-Ladies organizer) and advocate of open science.
+I am a PhD student at the Epidemiology Department of Erasmus MC, and I am a part of the Causal Inference Group and the Neuro-Epidemiology Group. My research is focused on applying causal inference methods in cohort studies, specifically to emulate target trials for long-term exposures related to dementia and to understand the role of competing events in this setting. I am also an R enthusiast and advocate of open science.
 
-I keep my heart in my home country, La Paz, Bolivia. 
+I keep my heart close to home in La Paz, Bolivia. 
