@@ -2,22 +2,17 @@
 title: "Brecha de género en educación"
 author: "Paloma"
 date: "2/8/2020"
-tags: [educación, género, r]
+tags: [educación, género, r, bolivia]
 external_link: https://palolili23.github.io/datos_abiertos_lp/01_R/reporte_alfabetizacion.html
 image:
   focal_point: Smart
+links:
+  name: GitHub
+  url: https://github.com/palolili23/datos_abiertos_lp
+  icon_pack: fab
+  icon: github
 output: 
   blog_down: html_document
 ---
 
 **_Si no educamos a las niñas de nuestro país, cómo esperamos que puedan emanciparse y defenderse de un problema sistémico como el machismo?_**
-
-
-Mi intención es usar datos abiertos para explorar la diferencia entre mujeres y hombres respecto a los indicadores de educación. 
-
-Para este proyecto utilicé datos que se encuentran libres y disponibles en la página [datosabiertos.bo](https://datos.gob.bo/dataset/indicadores-de-poblacion-segun-departamento-y-municipio-censo-2012/resource/102243d4-f2f4-4cdc-b26c-624eec13028b). 
-
-El proyecto se encuentra abierto en un repositorio público de github. 
-Los datos crudos se encuentran en la carpeta `00_datos_crudos` y el código para limpiar los datos se encuentra en el archivo `01_R`, `limpieza_datos.R`, guardé los datos ya procesados en el archivo `02_datos_limpios`.
-
-El código de este y otros gráficos de indicadores relacionados se encuentran descritos en el siguiente [post](https://palolili23.github.io/datos_abiertos_lp/01_R/reporte_alfabetizacion.html) 

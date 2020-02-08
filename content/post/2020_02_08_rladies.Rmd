@@ -1,9 +1,11 @@
 ---
 title: "Vacation <- grow(RLadiesNetwork)"
 author: "Laura, Mine and Paloma"
-date: "2/8/2020"
+date: "2020-02-08"
+tags: [rladies, south america]
 output:
   blogdown: html_page
+  
 ---
 
 ```{r setup, include=FALSE}

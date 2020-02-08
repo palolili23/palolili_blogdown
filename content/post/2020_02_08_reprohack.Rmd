@@ -1,7 +1,8 @@
 ---
 title: "Reproducibility Hackathon Netherlands – the aftermath"
 author: "Linda, Daniela, Paloma, Ricci and Anna"
-date: "2/8/2020"
+date: "2020-02-08"
+tags: [reproducibility, reprohack, leiden]
 output:
   blogdown: html_page
 ---
